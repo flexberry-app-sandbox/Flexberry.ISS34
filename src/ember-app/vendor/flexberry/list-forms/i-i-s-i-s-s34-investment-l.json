@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-s-s34-investment-e",
+  "editForm": "i-i-s-i-s-s34-investment-e",
+  "external": false,
+  "caption": "Investment",
+  "name": "IISISS34InvestmentL",
+  "className": "InvestmentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s34-investment",
+      "modelProjection": "InvestmentL"
+    }
+  ]
+}

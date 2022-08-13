@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Support",
+  "name": "IISISS34SupportE",
+  "className": "SupportE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s34-support",
+      "modelProjection": "SupportE"
+    }
+  ]
+}

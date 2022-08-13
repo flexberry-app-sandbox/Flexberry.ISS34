@@ -1,0 +1,43 @@
+﻿{
+  "applicationCaption": "I s s34",
+  "applicationTitle": "I s s34",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s34",
+      "caption": "ISS34",
+      "title": "ISS34",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s34-size-l",
+          "menuName": null,
+          "caption": "Size",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s34-investment-l",
+          "menuName": null,
+          "caption": "Investment",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s34-support-l",
+          "menuName": null,
+          "caption": "Support",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s34-form-l",
+          "menuName": null,
+          "caption": "Форм",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
